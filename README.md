@@ -15,9 +15,7 @@ Our project uses a variety of technologies to achieve its goals:
 - **Python**: The main language used for developing our project.
 - **PyTorch**: An open-source machine learning library for Python, used for applications such as natural language processing.
 - **Hugging Face Transformers**: A library that provides general-purpose architectures for Natural Language Understanding (NLU) and Natural Language Generation (NLG).
-- **Dask**: A flexible library for parallel computing in Python that makes scaling out your workflow smooth and simple.
-- **Ray**: A fast and simple framework for building and running distributed applications.
-- **DeepSpeed**: A deep learning optimization library that makes distributed training easy, efficient, and effective.
+
 
 ## How to Use
 
