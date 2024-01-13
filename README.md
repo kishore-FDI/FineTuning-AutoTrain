@@ -1,6 +1,6 @@
 # Fine-Tuning the Mistral 7B Sharded Model with AutoTrain and QLoRA
 
-Welcome to our project! We're working on fine-tuning the Mistral 7B sharded model using AutoTrain and QLoRA. This project aims to create a powerful AI model capable of generating high-quality responses in a conversational setting.
+Welcome to our project! We're working on fine-tuning the Mistral 7B sharded model with a custom dataset and the orca dataset using AutoTrain and QLoRA. This project aims to create a powerful AI model capable of generating high-quality responses in a conversational setting.
 
 ## Features
 
